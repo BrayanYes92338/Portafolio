@@ -8,17 +8,18 @@ Este es mi portafolio personal donde presento mis proyectos, experiencia y habil
 [Correo Electrónico](mailto:caballeroyesid7@gmail.com): caballeroyesid7@gmail.com
 [Correo Institucional](mailto:bycaballero0@soy.sena.edu.co): bycaballero0@soy.sena.edu.co
 [Cuenta GitHub](https://github.com/BrayanYes92338): BrayanYes92338
+[Numero de Telefono](3219181484): Número de Celular
 
 
 ### Capturas de pantalla:
 
-![Primera parte de la página web](imagenes/Evidencia/)
+![Primera parte de la página web](imagenes/Evidencia/Captura1.PNG)
 *Esta es la página principal de mi portafolio donde presento mi perfil.*
 
-![Experiencia](imagenes/Evidencia/)
+![Experiencia](imagenes/Evidencia/Captura2.PNG)
 *Sección de experiencia donde detallo mis proyectos y habilidades.*
 
-![Proyectos](imagenes/Evidencia/)
+![Proyectos](imagenes/Evidencia/Captura3.PNG)
 *Muestra de algunos de los proyectos que he desarrollado en el campo del desarrollo web.*
 
 
